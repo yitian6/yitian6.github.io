@@ -128,6 +128,11 @@ sitemap:
 baidusitemap:
   path: baidusitemap.xml
 
+baidu_url_submit:
+  count: 5 ## 提交最新的五个链接
+  host: pengqi.xyz ## 百度站长平台中注册的域名
+  token: O7FZ87Lmr3kZXHKS ## 准入秘钥 O7FZ87Lmr3kZXHKS
+  path: baidu_urls.txt ## 文本文档的地址， 新链接会保存在此文本文档里
 
 
 
@@ -174,3 +179,25 @@ neat_js:
     - '**/muse.js'
     - '**/pisces.js'
     - '**/bookmark.js'
+
+
+
+nofollow:
+  enable: true
+  field: site
+  exclude:
+    - 'exclude1.com'
+    - 'exclude2.com'
+
+
+moon_menu:
+  back2top:
+    enable: true
+    icon: fa fa-chevron-up
+    func: back2top
+    order: -1
+  back2bottom:
+    enable: true
+    icon: fa fa-chevron-down
+    func: back2bottom
+    order: -2

@@ -367,7 +367,7 @@ codeblock:
     style:
 
 back2top:
-  enable: true
+  enable: false
   # Back to top in sidebar.
   sidebar: false
   # Scroll percent label in b2t button.
@@ -378,7 +378,7 @@ reading_progress:
   enable: true
   # Available values: top | bottom
   position: top
-  color: ¡°#515dd4¡±                                # "#7f94d4" (¹«ÖÚºÅlogoÑÕÉ«)   "#37c6c0" £¨Ô­À´µÄ£© 
+  color: â€œ#515dd4â€                                # "#7f94d4" (å…¬ä¼—å·logoé¢œè‰²)   "#37c6c0" ï¼ˆåŸæ¥çš„ï¼‰ 
   height: 3px
 
 # Bookmark Support
@@ -614,11 +614,11 @@ changyan:
 # For more information: https://valine.js.org, https://github.com/xCss/Valine
 valine:
   enable: true
-  appid: sYzdy23LhXwnVMrPgUMx1JQJ-MdYXbMMI  # Your leancloud application appid
-  appkey: basrcRFHoRq1ryxAPKaHaGGt # Your leancloud application appkey
+  appid: T0Ou88YcHx8acXcWDjGar2f6-MdYXbMMI  # Your leancloud application appid
+  appkey: 8hzgxSnJsowlVaq73uO67A2y # Your leancloud application appkey
   notify: false # Mail notifier
   verify: false # Verification code
-  placeholder: Just go go  (ÓÊÏäÓÃÀ´Í¨Öª£© # Comment box placeholder
+  placeholder: Just go go  (é‚®ç®±ç”¨æ¥é€šçŸ¥ï¼‰ # Comment box placeholder
   avatar: mm # Gravatar style
   guest_info: nick,mail,link # Custom comment header
   pageSize: 10 # Pagination size
@@ -745,7 +745,7 @@ local_search:
   enable: true
   # If auto, trigger search by changing input.
   # If manual, trigger search by pressing enter key or search button.
-  trigger: manual  # ÊÖ¶¯£¬ »Ø³µ»òµã»÷ 
+  trigger: manual  # æ‰‹åŠ¨ï¼Œ å›è½¦æˆ–ç‚¹å‡» 
   # Show top n results per article, show all results by setting to -1
   top_n_per_article: 1
   # Unescape html strings to the readable one.
@@ -1003,20 +1003,20 @@ images: images
 
 
 
-# ÎÄÕÂÄ©Î²Ìí¼Ó¡°±¾ÎÄ½áÊø¡±±ê¼Ç
+# æ–‡ç« æœ«å°¾æ·»åŠ â€œæœ¬æ–‡ç»“æŸâ€æ ‡è®°
 passage_end_tag:
   enabled: true
 
-# ÒôÀÖÍâÁ´
+# éŸ³ä¹å¤–é“¾
 background_music: //music.163.com/outchain/player?type=0&id=2120628564&auto=1&height=66
 
 
-# Êó±êµã»÷ÌØĞ§
+# é¼ æ ‡ç‚¹å‡»ç‰¹æ•ˆ
 # mouse click effect: fireworks | explosion | love | text
 cursor_effect: fireworks
 
-# ´ò×ÖÌØĞ§
+# æ‰“å­—ç‰¹æ•ˆ
 # typing effect
 typing_effect:
-  colorful: true  # Àñ»¨ÌØĞ§
-  shake: false    # Õğ¶¯ÌØĞ§
+  colorful: true  # ç¤¼èŠ±ç‰¹æ•ˆ
+  shake: false    # éœ‡åŠ¨ç‰¹æ•ˆ

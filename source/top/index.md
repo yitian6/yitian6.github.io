@@ -6,7 +6,7 @@ comments: false
 
 <div id="top"></div>
 <script src="https://cdn1.lncld.net/static/js/av-core-mini-0.6.4.js"></script>
-<script>AV.initialize("sYzdy23LhXwnVMrPgUMx1JQJ-MdYXbMMI", "basrcRFHoRq1ryxAPKaHaGGt");AV.useAVCloudUS();</script>
+<script>AV.initialize("T0Ou88YcHx8acXcWDjGar2f6-MdYXbMMI", "8hzgxSnJsowlVaq73uO67A2y");AV.useAVCloudUS();</script>
 <script type="text/javascript">
   var time=0
   var title=""
@@ -21,7 +21,7 @@ comments: false
       time=result.time;
       title=result.title;
       url=result.url;
-      var content="<p>"+"<font color='#1C1C1C'>"+"【文章热度:"+time+"℃】"+"</font>"+"<a href='"+"https://darkknight233.github.io"+url+"'>"+title+"</a>"+"</p>";
+      var content="<p>"+"<font color='#1C1C1C'>"+"【文章热度:"+time+"℃】"+"</font>"+"<a href='"+"https://yitian6.github.io"+url+"'>"+title+"</a>"+"</p>";
       document.getElementById("top").innerHTML+=content
     }
   }, function (error) {
