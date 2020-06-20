@@ -9,8 +9,28 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Sat, 20 Jun 2020 07:00:19 GMT</pubDate>
+    <pubDate>Sat, 20 Jun 2020 11:50:17 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>2020下半年</title>
+      <link>https://yitian6.github.io/archives/18762.html</link>
+      <guid>https://yitian6.github.io/archives/18762.html</guid>
+      <pubDate>Sat, 20 Jun 2020 11:44:19 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;!-- build time:Sat Jun 20 2020 19:50:27 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;如题名，2020年下半年所有文章的留言板。这是因为太多没有评论的留言板会影响体验。根据实际情况，可能会升级为2020.0
+        
+      
+      </description>
+      
+      
+      <content:encoded><![CDATA[<!-- build time:Sat Jun 20 2020 19:50:27 GMT+0800 (GMT+08:00) --><blockquote><p>如题名，2020年下半年所有文章的留言板。这是因为太多没有评论的留言板会影响体验。根据实际情况，可能会升级为2020.06-2021.12所有文章的留言板。</p></blockquote><!-- rebuild by neat -->]]></content:encoded>
+      
+      <comments>https://yitian6.github.io/archives/18762.html#disqus_thread</comments>
+    </item>
     
     <item>
       <title>小小留言</title>
@@ -21,13 +41,13 @@
       
         
         
-          &lt;!-- build time:Sat Jun 20 2020 15:00:37 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;想找我的小伙伴都懂，记得填上邮箱哟&lt;/p&gt;&lt;!-- rebuild by neat --&gt;
+          &lt;!-- build time:Sat Jun 20 2020 19:50:27 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;想找我的小伙伴都懂，记得填上邮箱哟&lt;/p&gt;&lt;!-- rebuild by neat --&gt;
         
       
       </description>
       
       
-      <content:encoded><![CDATA[<!-- build time:Sat Jun 20 2020 15:00:37 GMT+0800 (GMT+08:00) --><p>想找我的小伙伴都懂，记得填上邮箱哟</p><!-- rebuild by neat -->]]></content:encoded>
+      <content:encoded><![CDATA[<!-- build time:Sat Jun 20 2020 19:50:27 GMT+0800 (GMT+08:00) --><p>想找我的小伙伴都懂，记得填上邮箱哟</p><!-- rebuild by neat -->]]></content:encoded>
       
       <comments>https://yitian6.github.io/archives/49831.html#disqus_thread</comments>
     </item>
