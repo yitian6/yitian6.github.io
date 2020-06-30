@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yitian6.github.io/messageBoard/index.html</loc>
+    
+    <lastmod>2020-06-30T00:20:41.388Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://yitian6.github.io/about/index.html</loc>
     
     <lastmod>2020-06-27T09:27:35.942Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://yitian6.github.io/archives/18762.html</loc>
     
     <lastmod>2020-06-20T11:50:26.986Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://yitian6.github.io/archives/49831.html</loc>
-    
-    <lastmod>2020-06-20T07:00:37.101Z</lastmod>
     
   </url>
   
