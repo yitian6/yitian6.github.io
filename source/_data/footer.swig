@@ -12,3 +12,4 @@ var msgToSimplifiedChinese = "简体"; //同上，但两处均不建议更改
 var translateButtonId = "translateLink"; //默认互换id
 translateInitilization();
 </script>
+

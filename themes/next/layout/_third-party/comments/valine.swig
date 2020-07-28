@@ -1,6 +1,9 @@
 {%- set valine_uri = '//cdn.jsdelivr.net/gh/pengqi/someFiles/Valine.min145.js' %}
 
+
+
 <script>
+
 NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
   NexT.utils.getScript('{{ valine_uri }}', () => {
     var GUEST = ['nick', 'mail', 'link'];
@@ -26,9 +29,12 @@ NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
     });
   }, window.Valine);
 });
+
 </script>
 
-// 一言
-<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script> <script type="text/javascript"> jinrishici.load(function(result) { var jrsc_plac = result.data.content + "\n「" + result.data.origin.title + "」" + result.data.origin.dynasty + " · " + result.data.origin.author document.getElementById("veditor").setAttribute("placeholder",jrsc_plac); }); </script>
+    
+
+
+
 
 

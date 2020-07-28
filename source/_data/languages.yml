@@ -1,93 +1,95 @@
----
-name: ¼òÌåÖĞÎÄ
-title:
-  archive: ¹éµµ
-  category: ·ÖÀà
-  tag: ±êÇ©
-  schedule: ÈÕ³Ì±í
-menu:
-  home: Ê×Ò³
-  archives: ¹éµµ
-  categories: ·ÖÀà
-  tags: ±êÇ©
-  about: ¹ØÓÚ
-  search: ËÑË÷
-  resources: ×ÊÔ´
-  schedule: ÈÕ³Ì±í
-  sitemap: Õ¾µãµØÍ¼
-  commonweal: ¹«Òæ 404
-  top: ÔÄ¶ÁÅÅĞĞ
+zh-CN:
+	title:
+	  archive: å½’æ¡£
+	  category: åˆ†ç±»
+	  tag: æ ‡ç­¾
+	  schedule: æ—¥ç¨‹è¡¨
+	menu:
+	  home: é¦–é¡µ
+	  archives: å½’æ¡£
+	  categories: åˆ†ç±»
+	  tags: æ ‡ç­¾
+	  about: å…³äº
+	  search: æœç´¢
+	  resources: èµ„æº
+	  schedule: æ—¥ç¨‹è¡¨
+	  sitemap: ç«™ç‚¹åœ°å›¾
+	  commonweal: å…¬ç›Š 404
+	  top: çƒ­æ¦œ
+	  messageBoard: ç•™è¨€
+	  books: é˜…è¯»
+	  movies: è§‚å½±
+	sidebar:
+	  overview: ç«™ç‚¹æ¦‚è§ˆ
+	  toc: æ–‡ç« ç›®å½•
+	post:
+	  posted: å‘è¡¨äº
+	  edited: æ›´æ–°äº
+	  created: åˆ›å»ºæ—¶é—´
+	  modified: ä¿®æ”¹æ—¶é—´
+	  edit: ç¼–è¾‘
+	  in: åˆ†ç±»äº
+	  read_more: é˜…è¯»å…¨æ–‡
+	  untitled: æœªå‘½å
+	  sticky: ç½®é¡¶
+	  views: é˜…è¯»æ¬¡æ•°
+	  related_posts: ç›¸å…³æ–‡ç« 
+	  copyright:
+	    author: æœ¬æ–‡ä½œè€…
+	    link: æœ¬æ–‡é“¾æ¥
+	    license_title: ç‰ˆæƒå£°æ˜
+	    license_content: "æœ¬åšå®¢æ‰€æœ‰æ–‡ç« é™¤ç‰¹åˆ«å£°æ˜å¤–ï¼Œå‡é‡‡ç”¨ %s è®¸å¯åè®®ã€‚è½¬è½½è¯·æ³¨æ˜å‡ºå¤„ï¼"
+	footer:
+	  powered: "ç”± %s å¼ºåŠ›é©±åŠ¨"
+	  total_views: æ€»è®¿é—®é‡
+	  total_visitors: æ€»è®¿å®¢é‡
+	counter:
+	  tag_cloud:
+	    zero: æš‚æ— æ ‡ç­¾
+	    one: ç›®å‰å…±è®¡ 1 ä¸ªæ ‡ç­¾
+	    other: "ç›®å‰å…±è®¡ %d ä¸ªæ ‡ç­¾"
+	  categories:
+	    zero: æš‚æ— åˆ†ç±»
+	    one: ç›®å‰å…±è®¡ 1 ä¸ªåˆ†ç±»
+	    other: "ç›®å‰å…±è®¡ %d ä¸ªåˆ†ç±»"
+	  archive_posts:
+	    zero: æš‚æ— æ—¥å¿—ã€‚
+	    one: ç›®å‰å…±è®¡ 1 ç¯‡æ—¥å¿—ã€‚
+	    other: "ç›®å‰å…±è®¡ %d ç¯‡æ—¥å¿—ã€‚"
+	state:
+	  posts: æ—¥å¿—
+	  tags: æ ‡ç­¾
+	  categories: åˆ†ç±»
+	search:
+	  placeholder: æœç´¢...
+	cheers:
+	  um: å—¯..
+	  ok: è¿˜è¡Œ
+	  nice: ä¸é”™
+	  good: å¾ˆå¥½
+	  great: éå¸¸å¥½
+	  excellent: å¤ªæ£’äº†
+	keep_on: ç»§ç»­åŠªåŠ›ã€‚
+	symbol:
+	  comma: "ï¼Œ"
+	  period: "ã€‚"
+	  colon: "ï¼š"
+	reward:
+	  donate: æ‰“èµ
+	  wechatpay: å¾®ä¿¡æ”¯ä»˜
+	  alipay: æ”¯ä»˜å®
+	  paypal: è´å®
+	  bitcoin: æ¯”ç‰¹å¸
+	follow_me:
+	  welcome: æ¬¢è¿å…³æ³¨æˆ‘çš„å…¶å®ƒå‘å¸ƒæ¸ é“
+	accessibility:
+	  nav_toggle: åˆ‡æ¢å¯¼èˆªæ 
+	  prev_page: ä¸Šä¸€é¡µ
+	  next_page: ä¸‹ä¸€é¡µ
+	symbols_count_time:
+	  count: æœ¬æ–‡å­—æ•°
+	  count_total: ç«™ç‚¹æ€»å­—æ•°
+	  time: é˜…è¯»æ—¶é•¿
+	  time_total: ç«™ç‚¹é˜…è¯»æ—¶é•¿
+	  time_minutes: åˆ†é’Ÿ
 
-sidebar:
-  overview: Õ¾µã¸ÅÀÀ
-  toc: ÎÄÕÂÄ¿Â¼
-post:
-  posted: ·¢±íÓÚ
-  edited: ¸üĞÂÓÚ
-  created: ´´½¨Ê±¼ä
-  modified: ĞŞ¸ÄÊ±¼ä
-  edit: ±à¼­
-  in: ·ÖÀàÓÚ
-  read_more: ÔÄ¶ÁÈ«ÎÄ
-  untitled: Î´ÃüÃû
-  sticky: ÖÃ¶¥
-  views: ÔÄ¶Á´ÎÊı
-  related_posts: Ïà¹ØÎÄÕÂ
-  copyright:
-    author: ±¾ÎÄ×÷Õß
-    link: ±¾ÎÄÁ´½Ó
-    license_title: °æÈ¨ÉùÃ÷
-    license_content: "±¾²©¿ÍËùÓĞÎÄÕÂ³ıÌØ±ğÉùÃ÷Íâ£¬¾ù²ÉÓÃ %s Ğí¿ÉĞ­Òé¡£×ªÔØÇë×¢Ã÷³ö´¦£¡"
-footer:
-  powered: "ÓÉ %s Ç¿Á¦Çı¶¯"
-  total_views: ×Ü·ÃÎÊÁ¿
-  total_visitors: ×Ü·Ã¿ÍÁ¿
-counter:
-  tag_cloud:
-    zero: ÔİÎŞ±êÇ©
-    one: Ä¿Ç°¹²¼Æ 1 ¸ö±êÇ©
-    other: "Ä¿Ç°¹²¼Æ %d ¸ö±êÇ©"
-  categories:
-    zero: ÔİÎŞ·ÖÀà
-    one: Ä¿Ç°¹²¼Æ 1 ¸ö·ÖÀà
-    other: "Ä¿Ç°¹²¼Æ %d ¸ö·ÖÀà"
-  archive_posts:
-    zero: ÔİÎŞÈÕÖ¾¡£
-    one: Ä¿Ç°¹²¼Æ 1 ÆªÈÕÖ¾¡£
-    other: "Ä¿Ç°¹²¼Æ %d ÆªÈÕÖ¾¡£"
-state:
-  posts: ÈÕÖ¾
-  tags: ±êÇ©
-  categories: ·ÖÀà
-search:
-  placeholder: ËÑË÷...
-cheers:
-  um: àÅ..
-  ok: »¹ĞĞ
-  nice: ²»´í
-  good: ºÜºÃ
-  great: ·Ç³£ºÃ
-  excellent: Ì«°ôÁË
-keep_on: ¼ÌĞøÅ¬Á¦¡£
-symbol:
-  comma: "£¬"
-  period: "¡£"
-  colon: "£º"
-reward:
-  donate: ´òÉÍ
-  wechatpay: Î¢ĞÅÖ§¸¶
-  alipay: Ö§¸¶±¦
-  paypal: ±´±¦
-  bitcoin: ±ÈÌØ±Ò
-follow_me:
-  welcome: »¶Ó­¹Ø×¢ÎÒµÄÆäËü·¢²¼ÇşµÀ
-accessibility:
-  nav_toggle: ÇĞ»»µ¼º½À¸
-  prev_page: ÉÏÒ»Ò³
-  next_page: ÏÂÒ»Ò³
-symbols_count_time:
-  count: ±¾ÎÄ×ÖÊı
-  count_total: Õ¾µã×Ü×ÖÊı
-  time: ÔÄ¶ÁÊ±³¤
-  time_total: Õ¾µãÔÄ¶ÁÊ±³¤
-  time_minutes: ·ÖÖÓ

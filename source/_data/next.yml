@@ -121,7 +121,9 @@ menu:
   tags: /tags/ || fa fa-tags
   #categories: /categories/ || fa fa-th
   archives: /archives/ || fa fa-archive
+  books: /books/ || fa fa-book
   # resources: /resources/ || fa fa-download 
+  messageBoard: /messageBoard/ || fa fa-comment-dots
   about: /about/ || fa fa-user
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
