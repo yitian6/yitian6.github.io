@@ -9,8 +9,28 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Sat, 20 Jun 2020 11:50:26 GMT</pubDate>
+    <pubDate>Tue, 28 Jul 2020 03:21:40 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>markdown是什么</title>
+      <link>https://yitian6.github.io/archives/44888.html</link>
+      <guid>https://yitian6.github.io/archives/44888.html</guid>
+      <pubDate>Tue, 28 Jul 2020 03:20:15 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;!-- build time:Tue Jul 28 2020 11:21:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;a href=&quot;https://www.markdownguide.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener e
+        
+      
+      </description>
+      
+      
+      <content:encoded><![CDATA[<!-- build time:Tue Jul 28 2020 11:21:59 GMT+0800 (GMT+08:00) --><p><a href="https://www.markdownguide.org/" target="_blank" rel="noopener external nofollow noreferrer">Markdown Guide</a></p><p><a href="https://typora.io/" target="_blank" rel="noopener external nofollow noreferrer">typora官网</a></p><p><a href="https://picgo.github.io/PicGo-Doc/zh/guide/config.html#picgo%E8%AE%BE%E7%BD%AE" target="_blank" rel="noopener external nofollow noreferrer">picgo配置手册</a></p><p><a href="https://zhuanlan.zhihu.com/p/103268406" target="_blank" rel="noopener external nofollow noreferrer">注册github</a></p><p><a href="https://www.itrhx.com/2019/08/01/A27-image-hosting/?utm_source=qq&utm_medium=social" target="_blank" rel="noopener external nofollow noreferrer">Github+jsDelivr+PicGo 打造稳定快速、高效免费图床</a></p><!-- rebuild by neat -->]]></content:encoded>
+      
+      <comments>https://yitian6.github.io/archives/44888.html#disqus_thread</comments>
+    </item>
     
     <item>
       <title>2020下半年</title>
